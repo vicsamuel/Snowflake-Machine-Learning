@@ -1,4 +1,4 @@
-# Snowpark Lab for Credit Card Approval Prediction
+# Snowpark Project for Credit Card Approval Prediction
 This repository contains resources to get first experience with Snowpark and Machine Learning.
 
 AWS SageMaker can be used for this project
